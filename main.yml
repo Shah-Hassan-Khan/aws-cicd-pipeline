@@ -2,7 +2,7 @@ name: Deploy Simple App
 
 on: 
   push:
-    branches: [master]
+    branches: [main]
 
 build:
   name: Build my App
